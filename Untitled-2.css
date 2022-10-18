@@ -1,0 +1,55 @@
+#poster {
+  padding: 0px 200px;
+}
+a {
+  color: #7d7070 !important;
+  line-height: 0.5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h5 {
+  color: grey;
+  line-height: 0.5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.line {
+  border-top: 5px solid rgb(67, 64, 64);
+}
+H1 {
+  line-height: 0px;
+  font-weight: 500;
+  display: inline-block;
+}
+h2 {
+  font-weight: 100;
+  display: inline-block;
+}
+.main {
+  height: 710px;
+  width: 1079px;
+}
+.side {
+  float: right;
+  margin-right: 15px;
+  height: 90px;
+  width: 187px;
+  position: relative;
+  bottom: 80px;
+}
+.icons {
+  float: right;
+}
+.secondary {
+  background-color: rgb(214, 207, 207);
+}
+.btn-space {
+  margin-right: 5px;
+  background-color: green;
+}
+button {
+  text-align: center;
+  background-color: green;
+  margin-left: 150px;
+  position: relative;
+  height: 50px;
+  width: 150px;
+}
